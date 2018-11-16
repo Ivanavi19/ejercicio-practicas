@@ -12,7 +12,7 @@ export class HomePage {
 
   constructor(public navCtrl: NavController) {
     this.titulo="Videojuegos";
-    this.videojuegos=["Pepe Juju's Adventure","The Legend of Zelda","Super Mario Bros","Donkey Kong","Kirby Stars Allies", "Super Smash Bros Ultimate", "Pokémon", "Kingdom Hearts", "Metroid", "Kid Icarus", "Destiny"]
+    this.videojuegos=["Saimonchelo y sus locuras","Pepe Juju's Adventure","The Legend of Zelda","Super Mario Bros","Donkey Kong","Kirby Stars Allies", "Super Smash Bros Ultimate", "Pokémon", "Kingdom Hearts", "Metroid", "Kid Icarus", "Destiny"]
   }
 
 }
