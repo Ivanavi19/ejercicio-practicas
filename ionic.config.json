@@ -1,0 +1,7 @@
+{
+  "name": "Ejercicio_Prácticas",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
